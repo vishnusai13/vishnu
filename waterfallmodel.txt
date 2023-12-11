@@ -1,0 +1,19 @@
+Advantages
+1)Rigidity and inflexibility
+2)Limited customer feedback
+3)Clear structure and progression
+4)Documented process with comprehensive records
+5)Easy project management
+6)Limited client involvement throughout
+7)Predictable timelines
+
+
+Disadvantages:
+
+1)Rigidity and inflexibility
+2)Limited customer feedback
+3)High risk of project failure if requirements change
+4)Late detection of defects
+5)Not suitable for large projects
+6)Dependency on initial specifications
+7)Long delivery time
