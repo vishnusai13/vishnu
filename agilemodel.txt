@@ -1,0 +1,2 @@
+Agile modeling is a methodology for modeling and documenting software systems based on best practices.
+It is a collection of values and principles that can be applied on an software development project.
